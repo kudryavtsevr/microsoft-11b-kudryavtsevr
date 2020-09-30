@@ -1,0 +1,61 @@
+﻿html{background:#42A3D5; font-family:"Verdana"; color: black;}
+.upper
+{
+width:90%;
+background: white;
+border-radius: 35px 12px;
+margin:20px auto;
+max-width:1080px;
+}
+
+.upper img
+{
+padding:10px;
+display:block;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;
+height: 120px;
+}
+.upper i 
+{
+padding: 20px;
+font-size:28px;
+text-align: center;
+width:100%;
+display:block
+}
+.leftmsg
+{
+background: white;
+border-radius: 25px 11px;
+margin: 40px 0px 40px 5%;
+width: 50%;
+}
+.rightmsg
+{
+background: white;
+border-radius: 25px 11px;
+margin: 40px 0px 40px 46%;
+width: 50%;
+}
+.god
+{
+text-align: center;
+padding: 10px;
+font-size: 24px;
+}
+.txt
+{
+font-size: 18px;
+padding: 15px;
+}
+
+.inimg
+{
+display: block;
+border-radius: 35px 12px;
+margin: 15px auto;
+max-width: 75vw;
+}
+
